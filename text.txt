@@ -1,2 +1,3 @@
 import css
 print(data)
+with file open
